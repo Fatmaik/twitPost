@@ -1,0 +1,14 @@
+body {
+    background-image: url("http://pekdek.com.br/fotos/2011/11/Fundos-para-o-Twitter.jpg");
+}
+
+textarea {
+    background-color: #FFFF99;
+    font-size: 16px;
+}
+
+p,
+span {
+    color: white;
+    font-size: 14px;
+}
